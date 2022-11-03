@@ -47,4 +47,5 @@ public function setParkBrake(bool $hasParkBrake) : void {
 public function getParkBrake() : bool {
     return $this->hasParkBrake;
 }
+
 }
