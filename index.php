@@ -36,5 +36,15 @@ finally {
 var_dump($car1);
 
 
+/* class Point {
+    protected int $x;
+    protected int $y;
 
+    public function __construct($x, $y = 0) {
+        $this->x = $x;
+        $this->y = $y;
+    }
+}
+
+$point1 = new Point(2); */
 
